@@ -1,0 +1,227 @@
+[
+    {
+        "cityName": "Cairo",
+        "countryName": "Egypt",
+        "status": "cloudy",
+        "currentTemp": 25,
+        "highTemp": 28,
+        "lowTemp": 22,
+        "wind": "10 mph",
+        "humidity": "65%",
+        "pressure": "0.541 m/b",
+        "weeklyData": [
+            {
+              "day": "Monday",
+              "status": "cloudy",
+              "highTemp": 28,
+              "lowTemp": 16
+            },
+            {
+              "day": "Tuesday",
+              "status": "cloudy",
+              "highTemp": 26,
+              "lowTemp": 18
+            },
+            {
+              "day": "Wednesday",
+              "status": "cloudy",
+              "highTemp": 24,
+              "lowTemp": 17
+            },
+            {
+              "day": "Thursday",
+              "status": "rainy",
+              "highTemp": 21,
+              "lowTemp": 14
+            },
+            {
+              "day": "Friday",
+              "status": "rainy",
+              "highTemp": 19,
+              "lowTemp": 13
+            },
+            {
+              "day": "Saturday",
+              "status": "sunny",
+              "highTemp": 23,
+              "lowTemp": 15
+            },
+            {
+              "day": "Sunday",
+              "status": "sunny",
+              "highTemp": 27,
+              "lowTemp": 17
+            }
+          ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut consectetur nisl, in lacinia sem. Nunc eros lacus, volutpat viverra lacus quis, laoreet consectetur lorem. Aliquam erat volutpat. Aliquam accumsan magna eu lorem dapibus cursus. Cras lectus purus, vestibulum et mollis a, pellentesque vitae ligula."
+    },
+    {
+        "cityName": "Alexandria",
+        "countryName": "Egypt",
+        "status": "rainy",
+        "currentTemp": 18,
+        "highTemp": 20,
+        "lowTemp": 15,
+        "wind": "8 mph",
+        "humidity": "75%",
+        "pressure": "0.541 m/b",
+        "weeklyData": [
+            {
+              "day": "Monday",
+              "status": "sunny",
+              "highTemp": 28,
+              "lowTemp": 16
+            },
+            {
+              "day": "Tuesday",
+              "status": "cloudy",
+              "highTemp": 26,
+              "lowTemp": 18
+            },
+            {
+              "day": "Wednesday",
+              "status": "cloudy",
+              "highTemp": 24,
+              "lowTemp": 17
+            },
+            {
+              "day": "Thursday",
+              "status": "rainy",
+              "highTemp": 21,
+              "lowTemp": 14
+            },
+            {
+              "day": "Friday",
+              "status": "sunny",
+              "highTemp": 19,
+              "lowTemp": 13
+            },
+            {
+              "day": "Saturday",
+              "status": "cloudy",
+              "highTemp": 23,
+              "lowTemp": 15
+            },
+            {
+              "day": "Sunday",
+              "status": "sunny",
+              "highTemp": 27,
+              "lowTemp": 17
+            }
+          ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut consectetur nisl, in lacinia sem. Nunc eros lacus, volutpat viverra lacus quis, laoreet consectetur lorem. Aliquam erat volutpat. Aliquam accumsan magna eu lorem dapibus cursus."
+    },
+    {
+        "cityName": "Tanta",
+        "countryName": "Egypt",
+        "status": "sunny",
+        "currentTemp": 30,
+        "highTemp": 32,
+        "lowTemp": 28,
+        "wind": "5 mph",
+        "humidity": "50%",
+        "pressure": "0.541 m/b",
+        "weeklyData": [
+            {
+              "day": "Monday",
+              "status": "sunny",
+              "highTemp": 28,
+              "lowTemp": 16
+            },
+            {
+              "day": "Tuesday",
+              "status": "cloudy",
+              "highTemp": 26,
+              "lowTemp": 18
+            },
+            {
+              "day": "Wednesday",
+              "status": "cloudy",
+              "highTemp": 24,
+              "lowTemp": 17
+            },
+            {
+              "day": "Thursday",
+              "status": "rainy",
+              "highTemp": 21,
+              "lowTemp": 14
+            },
+            {
+              "day": "Friday",
+              "status": "rainy",
+              "highTemp": 19,
+              "lowTemp": 13
+            },
+            {
+              "day": "Saturday",
+              "status": "rainy",
+              "highTemp": 23,
+              "lowTemp": 15
+            },
+            {
+              "day": "Sunday",
+              "status": "sunny",
+              "highTemp": 27,
+              "lowTemp": 17
+            }
+          ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut consectetur nisl, in lacinia sem. Nunc eros lacus, volutpat viverra lacus quis, laoreet consectetur lorem. Aliquam erat volutpat. Aliquam accumsan magna eu lorem dapibus cursus. Cras lectus purus, vestibulum et mollis a, pellentesque vitae ligula. Ut congue aliquet dictum. Curabitur tristique maximus felis a egestas. Pellentesque rutrum turpis at tristique euismod. Maecenas id porttitor velit."
+    },
+    {
+        "cityName": "Hurghada",
+        "countryName": "Egypt",
+        "status": "cloudy",
+        "currentTemp": 22,
+        "highTemp": 25,
+        "lowTemp": 20,
+        "wind": "12 mph",
+        "humidity": "60%",
+        "pressure": "0.541 m/b",
+        "weeklyData": [
+            {
+              "day": "Monday",
+              "status": "sunny",
+              "highTemp": 28,
+              "lowTemp": 16
+            },
+            {
+              "day": "Tuesday",
+              "status": "cloudy",
+              "highTemp": 26,
+              "lowTemp": 18
+            },
+            {
+              "day": "Wednesday",
+              "status": "cloudy",
+              "highTemp": 24,
+              "lowTemp": 17
+            },
+            {
+              "day": "Thursday",
+              "status": "rainy",
+              "highTemp": 21,
+              "lowTemp": 14
+            },
+            {
+              "day": "Friday",
+              "status": "cloudy",
+              "highTemp": 19,
+              "lowTemp": 13
+            },
+            {
+              "day": "Saturday",
+              "status": "rainy",
+              "highTemp": 23,
+              "lowTemp": 15
+            },
+            {
+              "day": "Sunday",
+              "status": "sunny",
+              "highTemp": 27,
+              "lowTemp": 17
+            }
+          ],
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut consectetur nisl, in lacinia sem. Nunc eros lacus, volutpat viverra lacus quis, laoreet consectetur lorem. Aliquam erat volutpat. Aliquam accumsan magna eu lorem dapibus cursus. Cras lectus purus, vestibulum et mollis."
+    }
+]
+
